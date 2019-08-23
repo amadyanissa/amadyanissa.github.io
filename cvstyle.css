@@ -1,0 +1,76 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	margin-top: 0;
+	padding-top: 0;
+}
+
+body{
+	background-color: #127B71;
+}
+.navbar{
+	background-color: #FF9671;
+	text-align:  center;
+	padding: 25px;
+	position: fixed;
+	z-index: 10;
+	width: 100%;
+}
+
+.navbar a{
+	background-color: #FFC75F;
+	border-radius: 10px;
+	padding: 20px 30px;
+	margin: 0px 10px;
+	color: #0A6F72;
+	font-weight: 700;
+	}
+
+.titlepage{
+	background-position:repeat;
+	width: 100%;
+	background-image: url("https://www.barraques.cat/pngfile/big/48-488550_wallpaper-coneflowers-flowers-flowerbed-many-aesthetic-wallpapers-for.jpg")
+}
+.contenttitle{
+	margin: 0px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	top: 50%;
+}
+
+.education{
+	background-color:rgba(255,199,95,0.80);
+	text-align: center;
+	margin: 30px 200px;
+	padding: 20px;
+	border-radius: 45px;
+	color:#0A6F72;
+	font-size: 18px
+
+}
+
+.achievements{
+	background-color:rgba(255,199,95,0.80);
+	text-align: center;
+	margin: 30px 200px;
+	padding: 20px;
+	border-radius: 45px;
+	color:#0A6F72;
+	font-size: 18px
+}
+
+.job-experience{
+	background-color:rgba(255,199,95,0.80);
+	text-align: center;
+	margin: 30px 200px;
+	padding: 20px;
+	border-radius: 45px;
+	color:#0A6F72;
+	font-size: 18px
+}
