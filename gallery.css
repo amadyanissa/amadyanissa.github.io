@@ -48,11 +48,10 @@ body {
   top: 50%;
 }
 
-.about-me {
-  display: inline-block;
+.Art {
   background-color: rgba(255, 199, 95, 0.8);
   text-align: center;
-  margin: 30px 305px;
+  margin: 30px 200px;
   padding: 20px;
   border-radius: 45px;
   color: #0a6f72;
